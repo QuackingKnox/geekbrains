@@ -12,4 +12,4 @@ Data: kaggle (https://www.kaggle.com/iabhishekofficial/mobile-price-classificati
 Модель: LogisticRegression
 
 1. Запуск сервера - run_server.py
-2. Отправка случайного наблюдения, для выдачи предсказания - send_json.py
+2. Отправка случайного наблюдения, для выдачи предсказания - send_json.py (не забыть поменять myurl)
